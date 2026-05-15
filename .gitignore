@@ -1,0 +1,11 @@
+Complete_Notes_Maths_For_ML.pdf
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+env/
+venv/
+ENV/
+.vscode/
+.idea/
